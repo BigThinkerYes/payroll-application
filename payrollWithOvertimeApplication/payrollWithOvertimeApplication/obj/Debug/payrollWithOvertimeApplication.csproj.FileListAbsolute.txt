@@ -1,0 +1,9 @@
+c:\users\lr\documents\visual studio 2012\Projects\payrollWithOvertimeApplication\payrollWithOvertimeApplication\bin\Debug\payrollWithOvertimeApplication.exe.config
+c:\users\lr\documents\visual studio 2012\Projects\payrollWithOvertimeApplication\payrollWithOvertimeApplication\bin\Debug\payrollWithOvertimeApplication.exe
+c:\users\lr\documents\visual studio 2012\Projects\payrollWithOvertimeApplication\payrollWithOvertimeApplication\bin\Debug\payrollWithOvertimeApplication.pdb
+c:\users\lr\documents\visual studio 2012\Projects\payrollWithOvertimeApplication\payrollWithOvertimeApplication\obj\Debug\payrollWithOvertimeApplication.csprojResolveAssemblyReference.cache
+c:\users\lr\documents\visual studio 2012\Projects\payrollWithOvertimeApplication\payrollWithOvertimeApplication\obj\Debug\payrollWithOvertimeApplication.Form1.resources
+c:\users\lr\documents\visual studio 2012\Projects\payrollWithOvertimeApplication\payrollWithOvertimeApplication\obj\Debug\payrollWithOvertimeApplication.Properties.Resources.resources
+c:\users\lr\documents\visual studio 2012\Projects\payrollWithOvertimeApplication\payrollWithOvertimeApplication\obj\Debug\payrollWithOvertimeApplication.csproj.GenerateResource.Cache
+c:\users\lr\documents\visual studio 2012\Projects\payrollWithOvertimeApplication\payrollWithOvertimeApplication\obj\Debug\payrollWithOvertimeApplication.exe
+c:\users\lr\documents\visual studio 2012\Projects\payrollWithOvertimeApplication\payrollWithOvertimeApplication\obj\Debug\payrollWithOvertimeApplication.pdb
